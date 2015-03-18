@@ -1,13 +1,13 @@
-##Additional Interactivity
+###Additional Interactivity
 
-#Navigation Menu Added
+####Navigation Menu Added
 
 A simple horizontal menu bar placed in the header, below the profile picture and skills.  It contains links to each section of the resume and has custom scrolling optimizations such as anchor tags.  https://github.com/adtile/fixed-nav contains features that were used to create the menu bar. A few js files from this link were added to the index.html page such as:
 *fixed-nav-master/js/responsive-nav.js
 *fixed-nav-master/js/scroll.js
 *fixed-nav-master/js/fastclick.js
 
-##Resume includes custom CSS
+####Resume includes custom CSS
 
 *Header background changed to black
 *Bio information displayed in white
