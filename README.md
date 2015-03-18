@@ -3,17 +3,17 @@
 ####Navigation Menu Added
 
 A simple horizontal menu bar placed in the header, below the profile picture and skills.  It contains links to each section of the resume and has custom scrolling optimizations such as anchor tags.  https://github.com/adtile/fixed-nav contains features that were used to create the menu bar. A few js files from this link were added to the index.html page such as:
-*fixed-nav-master/js/responsive-nav.js
-*fixed-nav-master/js/scroll.js
-*fixed-nav-master/js/fastclick.js
+1. fixed-nav-master/js/responsive-nav.js
+2. fixed-nav-master/js/scroll.js
+3. fixed-nav-master/js/fastclick.js
 
 ####Resume includes custom CSS
 
-*Header background changed to black
-*Bio information displayed in white
-*Navigation Bar links use: #1199C3;
-*Font weight and colors of resume sections were altered.
-*Footer bar background and font changed to black and white respectively
+1. Header background changed to black
+2. Bio information displayed in white
+3. Navigation Bar links use: #1199C3;
+4. Font weight and colors of resume sections were altered.
+5. Footer bar background and font changed to black and white respectively
 
 
 
